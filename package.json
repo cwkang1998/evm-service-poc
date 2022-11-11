@@ -1,5 +1,5 @@
 {
-  "name": "bridge-evm-utxo-exploration",
+  "name": "evm-service-poc",
   "version": "0.0.0",
   "private": true,
   "workspaces": [
@@ -20,5 +20,5 @@
   "engines": {
     "node": ">=14.0.0"
   },
-  "packageManager": "pnpm@7.14.2"
+  "packageManager": "pnpm@7.16.0"
 }
